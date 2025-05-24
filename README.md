@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&animation=true&lineHeight=60&icons=python,streamlit,fastapi,flutter,react,nodejs,firebase,mongodb,html5,css3,javascript,linux,git,vscode" alt="Tech Stack Banner" />
-</p>
-
-
 
 
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Welcome Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Full-Stack+Developer;AI+%2F+ML+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Vinay Kumar Mahto</h1>
 <p align="center">
