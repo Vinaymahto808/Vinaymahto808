@@ -66,17 +66,13 @@
 ### 🔐 SecurePDF - Automated PII Redaction in PDFs
 - AI/ML-powered tool for automatic redaction of sensitive information in PDFs.
 - 🛠 Python, Streamlit, FastAPI, OCR, Microsoft Presidio
-- 📁 [GitHub Repo](https://github.com/Vinaymahto808/SecurePDF)
+- 📁 [GitHub Repo](https://github.com/Vinaymahto808/AI_MLpii_detection)
 
 ### 🩺 AI-Healthcare Chatbot
 - Intelligent chatbot that provides personalized health assistance.
 - 🛠 React, Node.js, GPT-API, Firebase
 - 📁 [GitHub Repo](https://github.com/Vinaymahto808/AI-Healthcare-chatbot)
 
-### 🖨️ Print-Portal
-- A streamlined online platform for ordering custom print services.
-- 🛠 Full Stack (Flutter + Node.js, MongoDB)
-- 📁 [GitHub Repo](https://github.com/Vinaymahto808/Print-Portal)
 
 ### 📍 Geolocation-based Attendance Tracker
 - Flutter-based app for student attendance using real-time location and maps.
