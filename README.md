@@ -74,10 +74,10 @@
 - 📁 [GitHub Repo](https://github.com/Vinaymahto808/AI-Healthcare-chatbot)
 
 
-### 📍 Geolocation-based Attendance Tracker
-- Flutter-based app for student attendance using real-time location and maps.
-- 🛠 Flutter, Node.js, MongoDB, Google Maps API
-- 📁 [GitHub Repo](https://github.com/Vinaymahto808/Geo-Attendance-App)
+### Policy Navigation Using AI
+- AI/ML-powered tool for automatic Policy Navigation
+- 🛠 Python, Streamlit, FastAPI, OCR, Microsoft Presidio, ollama chat support
+- 📁 [GitHub Repo](https://policynavai.streamlit.app/)
 
 ---
 
